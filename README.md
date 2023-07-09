@@ -50,6 +50,6 @@
 ## 멤버 소개
 
 
-|![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=100px)|![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=100px) |![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=100px) | 
+|![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=100px)|![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=100px) |[![](https://github.com/alpapago.png?width=200px)](https://github.com/alpapago) | 
 |:---:|:---:|:---:|
 | 시현 | 성심 | 신애 |
