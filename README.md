@@ -34,6 +34,6 @@ barrrkingdog 강의로 공부하는 알고리즘 스터디
 ## 멤버 소개
 
 
-|[![](https://github.com/alpapago.png?width=10px)](https://github.com/alpapago) | ![pawpaw임시사진](https://github.com/alpapago/System_Design_Interview_study/assets/117890994/b66b4354-bb2f-40d2-8d65-11b517d51b19/?width=10px)|
+|[![](https://github.com/alpapago.png?width=10px)](https://github.com/alpapago) | [![](https://github.com/qweraqwer.png?width=10px)](https://github.com/qweraqwer) |
 |:---:|:---:|
 | 신애 | 객원1 |
